@@ -36,3 +36,17 @@
 33.   ingle premium whole life allows the insured to pay the entire premium in one lump-sum and have coverage for his/her entire life. This type of permanent coverage has the highest initial cash value.
 34.   A Variable Whole Life policy provides a minimum guaranteed death benefit.
 35.    Equity index insurance yields greater gains than bonds but will still protect the principal with a minimum of risk.
+36. In this situation, the statement "20-Pay Life accumulates cash value faster than Straight Life" would be correct.
+37.  Universal life insurance is characterized by flexible premiums and an adjustable death benefit.
+38.  An endowment policy is characterized by cash values that grow at a rapid pace so that the policy matures or endows at a specified date (before age 100).
+39.  The conversion privilege allows an individual to leave the group term plan and continue his or her insurance without providing evidence of insurability.
+40.  All of these actions are possible with a Universal Life policy EXCEPT "Premiums may be applied as a credit against income tax".
+41.   As financial needs and objectives change, the policyowner can make adjustments to the premium and/or face amount. Adjustable Life insurance
+42.   A decreasing term rider can add additional coverage to a whole life policy.
+43.    With a graded premium whole life policy, the premium increases each year during the early years of the contract (usually five years) and remains the same after that time.
+44.A Family Maintenance Policy pays a monthly income from the date of death of the insured to the end of the preselected period. The payment of the face amount of the policy is payable at the end of such preselected period.
+   All of these have an interest-sensitive investment aspect, EXCEPT Modified Whole Life.
+   ariable insurance products do not guarantee contract cash values, and it is the policyowner who assumes the investment risk. Variable life insurance contracts do not make any promises as to either interest rates or minimum cash values.
+   Stranger-Owned Life Insurance (STOLI) is when a person purchases life insurance only to sell to a(n):
+ third-party with no insurable interest
+Stranger-Owned Life Insurance (STOLI) is when a person purchases life insurance only to sell to a third-party with no insurable interest, who would therefore be unable to legally purchase the original policy. STOLI is a way to circumvent the insurable interest requirement when purchasing a life insurance policy. To legally purchase life insurance on someone else, the purchaser must have an insurable interest in that person’s life. STOLI is prohibited in most states.
